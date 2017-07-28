@@ -29,7 +29,6 @@ categories = [
 title = "Samsung Galaxy S8 Plus Smart Review"
 +++
 
-# Samsung Galaxy S8 Plus Smart Review
 ![](http://imgur.com/5ZyHdvm.png)
 
 Samsung Galaxy S8 Plus is the best phone that will make you fall in love with it. In recent days it is the most trending phone in the mobile market you will find. It has larger screen size 6.2 inches compared to any phone launched in recent years. The other variant Samsung Galaxy S8 has a screen size of 5.8 inches. Both this phones are almost same in many aspects if compared.
@@ -77,69 +76,87 @@ The S8 and S8+ is also the first phone to come with Bluetooth 5.0, which promise
 
 The smaller model can last an entire day between charges if you’re a light user, but if you use your phone a lot, you will likely have to charge it at some point in the day. The larger S8 Plus might be the better option for heavy users, it was more likely to last me a full day before it needed to be plugged in.
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01NAKU5HE&asins=B01NAKU5HE&linkId=8ec3d72cba87d65ca54c12e8557fd29e&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B072HG4YS7&asins=B072HG4YS7&linkId=dd21c7a8f90bf1c79897b24111801f40&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01NCN73TZ&asins=B01NCN73TZ&linkId=9d7054737002c3a2ad75fb21860f67c7&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01DDP7GZK&asins=B01DDP7GZK&linkId=91de0b5a9d19c1be7141df316f47cbcb&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01FM7HV34&asins=B01FM7HV34&linkId=de32af9f7d8f9f184751e7cf116cd615&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B0744NY154&asins=B0744NY154&linkId=aab5fcce4346d8bc39a68adf627fa433&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
 ##  Samsung Galaxy S8 Plus Specifications
 
 ### Design
 
-| Device type         |Smart phone               |
-| ------------        | -----------               |
-| OS              | Android (7.0)             |
-|Dimensions          |6.28 x 2.89 x 0.32 inches (159.5 x 73.4 x 8.1 mm)|
-|Weight|6.10 oz (173 g)|
-|Materials|Main body: Glass; Accents: Aluminum|
-|Features|Iris scanner, Fingerprint (touch)|
-|Rugged|Water, Dust resistant|
-|IP certified|IP 68
-|Colors|Black, Gold, Gray, Silver, Blue
+| Device type  | Smart phone                                       |
+|--------------|---------------------------------------------------|
+| OS           | Android (7.0)                                     |
+| Dimensions   | 6.28 x 2.89 x 0.32 inches (159.5 x 73.4 x 8.1 mm) |
+| Weight       | 6.10 oz (173 g)                                   |
+| Materials    | Main body: Glass; Accents: Aluminum               |
+| Features     | Iris scanner, Fingerprint (touch)                 |
+| Rugged       | Water, Dust resistant                             |
+| IP certified | IP 68                                             |
+| Colors       | Black, Gold, Gray, Silver, Blue                   |
 
 ### Display
 
-| Physical size  | 6.2 inches  |
-|---|---|
-|  Resolution|1440 x 2960 pixels
-|Pixel density|529 ppi
-|Technology|Super AMOLED
-|Screen-to-body ratio|83.32 %
-|Features|HDR, Scratch-resistant glass (Corning Gorilla Glass 5), Light sensor, Proximity sensor
+| Physical size        | 6.2 inches                                                                             |
+|----------------------|----------------------------------------------------------------------------------------|
+| Resolution           | 1440 x 2960 pixels                                                                     |
+| Pixel density        | 529 ppi                                                                                |
+| Technology           | Super AMOLED                                                                           |
+| Screen-to-body ratio | 83.32 %                                                                                |
+| Features             | HDR, Scratch-resistant glass (Corning Gorilla Glass 5), Light sensor, Proximity sensor |
 
 ### Camera
 
-|Camera                 |  12 megapixels                                |
-|---                  |---                                                   |
-|Flash                  |LED
-|Aperture size|F1.7
-|Focal length |26 mm
-|Camera sensor size|1/2.55"
-|Pixel size|1.4 μm
-|Hardware Features|Optical image stabilization, Autofocus |
-|Software Features|Manual focus, Object tracking, RAW image capture, Touch to focus, Smile detection, Face detection, Voice activation, Self-timer, Digital zoom, Geo tagging
-|Settings|Exposure compensation, ISO control, White balance presets, Shutter speed control
-|Shooting Modes|PopupBurst mode, High Dynamic Range mode (HDR), Panorama, Frames, Effects
-|Camcorder    |3840x2160 (4K) (30 fps), 2560x1440 (QHD), 1920x1080 (1080p HD) (60 fps), 1280x720 (720p HD) (240 fps)
+| Camera             | 12 megapixels                                                                                                                                              |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Flash              | LED                                                                                                                                                        |
+| Aperture size      | F1.7                                                                                                                                                       |
+| Focal length       | 26 mm                                                                                                                                                      |
+| Camera sensor size | 1/2.55"                                                                                                                                                    |
+| Pixel size         | 1.4 μm                                                                                                                                                     |
+| Hardware Features  | Optical image stabilization, Autofocus                                                                                                                     |
+| Software Features  | Manual focus, Object tracking, RAW image capture, Touch to focus, Smile detection, Face detection, Voice activation, Self-timer, Digital zoom, Geo tagging |
+| Settings           | Exposure compensation, ISO control, White balance presets, Shutter speed control                                                                           |
+| Shooting Modes     | PopupBurst mode, High Dynamic Range mode (HDR), Panorama, Frames, Effects                                                                                  |
+| Camcorder          | 3840x2160 (4K) (30 fps), 2560x1440 (QHD), 1920x1080 (1080p HD) (60 fps), 1280x720 (720p HD) (240 fps)                                                      |
 
 ### Hardware 
 
-|System chip |Qualcomm Snapdragon 835 MSM8998|
-|---|---|
-|Processor|Octa-core, 2450 MHz, Kryo 280, 64-bit, 10 nm
-|Graphics processor|[+]Adreno 540
-|System memory|4 GB RAM
-|Built-in storage|64 GB
-|Storage expansion|microSD, microSDHC, microSDXC up to 256 GB
+| System chip        | Qualcomm Snapdragon 835 MSM8998              |
+|--------------------|----------------------------------------------|
+| Processor          | Octa-core, 2450 MHz, Kryo 280, 64-bit, 10 nm |
+| Graphics processor | [+]Adreno 540                                |
+| System memory      | 4 GB RAM                                     |
+| Built-in storage   | 64 GB                                        |
+| Storage expansion  | microSD, microSDHC, microSDXC up to 256 GB   |
 
 ### Connectivity
 
-|Wifi   |   Yes|
-|---|---|
-|Wi-Fi standards supported|	802.11 a/b/g/n/ac
-|GPS|	Yes
-|Bluetooth|	Yes
-|NFC|	Yes
-|Infrared|	No
-|USB OTG	|Yes
-|Headphones	|3.5mm
-|FM	|No
-|Number of SIMs|	1
+| Wifi                      | Yes               |
+|---------------------------|-------------------|
+| Wi-Fi standards supported | 802.11 a/b/g/n/ac |
+| GPS                       | Yes               |
+| Bluetooth                 | Yes               |
+| NFC                       | Yes               |
+| Infrared                  | No                |
+| USB OTG                   | Yes               |
+| Headphones                | 3.5mm             |
+| FM                        | No                |
+| Number of SIMs            | 1                 |
 
 ### Sim 1
 
@@ -152,14 +169,14 @@ The smaller model can last an entire day between charges if you’re a light use
 
 ### Sensors
 
-|  Compass/ Magnetometer | Yes  |
-|---|---|
-|Proximity sensor	|Yes
-|Accelerometer	|Yes
-|Ambient light sensor|	Yes
-|Gyroscope|	Yes
-|Barometer|	Yes
-|Temperature sensor| No
+| Compass/ Magnetometer | Yes |
+|-----------------------|-----|
+| Proximity sensor      | Yes |
+| Accelerometer         | Yes |
+| Ambient light sensor  | Yes |
+| Gyroscope             | Yes |
+| Barometer             | Yes |
+| Temperature sensor    | No  |
  
 ## Pros
 
@@ -201,16 +218,25 @@ The smaller model can last an entire day between charges if you’re a light use
 6. 6 GB RAM version is available only for the South Korea and China.
 
 
-Hope you have gathered all the information about the Samsung Galaxy S8+ that you were looking for. The price is to high but good things has to have some value for its quality so as to be differentiated from other. The S8 is priced at Rs 57,900 and the larger S8+ is priced at Rs 64,900. Now you know everything about the phone so you can buy it without any hesitation and delay. 
+Hope you have gathered all the information about the Samsung Galaxy S8+ that you were looking for. The price is to high but good things has to have some value for its quality so as to be differentiated from other. The S8 is priced at Rs 57,900 and the larger S8+ is priced at Rs 70,900. Now you know everything about the phone so you can buy it without any hesitation and delay. 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B073P9VP7H&asins=B073P9VP7H&linkId=2ec622f3954923095d16985bbd453afe&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01MXZW51M&asins=B01MXZW51M&linkId=6f5b6cee009048bba933d6f7b9116881&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01NAKTR2H&asins=B01NAKTR2H&linkId=8d9e40ece91a8631a90b984b6923feef&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01FM8M0XE&asins=B01FM8M0XE&linkId=7ab9beee70641ae1378e2533527f2c5d&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B06XRKQSY7&asins=B06XRKQSY7&linkId=ee0f4bdeccc077db80c54c967abd2c22&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 
-
-
-
-
-
-
-
-
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=mobiletechr08-21&marketplace=amazon&region=IN&placement=B01N1UM7CG&asins=B01N1UM7CG&linkId=040e068bc67877c0011dcc359aaadb0c&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 
